@@ -1,4 +1,3 @@
-# Smtp-Cracker-v4
 <h2><br /><span style="text-decoration: underline; color: #ff0000;"><strong>SMTP CRACKER V 4.0</strong></span></h2>
 <p>&nbsp;</p>
 <h3><span style="color: #ff6600;">WHY TO USE SMTP V4?</span></h3>
